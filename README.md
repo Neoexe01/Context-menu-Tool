@@ -52,6 +52,9 @@ This project is open to contributions! If you'd like to improve or fix bugs in t
 4. Commit your changes and create a pull request.
 
 ## Program Screenshots
+![CMD](https://github.com/user-attachments/assets/ee177924-621b-4f29-97f6-04db3179879f)
+![Registry](https://github.com/user-attachments/assets/5e9fc234-8101-4884-aad6-4eea4587faed)
+![Context menu](https://github.com/user-attachments/assets/3497c45c-73e4-456b-ac0f-281d77bda4e3)
 
 
 
@@ -107,3 +110,6 @@ Bu proje, katkılara açıktır! Eğer bu projeyi geliştirmek veya hata düzelt
 4. Yapmış olduğunuz değişiklikleri commit'leyin ve pull request oluşturun.
 
 ## Programdan Ekran Görüntüleri
+![CMD](https://github.com/user-attachments/assets/b7a1c660-b690-4e5b-bb43-202db406f877)
+![Registry](https://github.com/user-attachments/assets/09243813-21eb-4653-b3a6-508ec82360d4)
+![Context menu](https://github.com/user-attachments/assets/d171acb0-491c-48f7-ba1a-b89d3a2d8d50)
